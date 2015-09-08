@@ -5,4 +5,4 @@ These are files from my Programming I class at Rochester Institute of Technology
 
 This class uses the C# language. 
 
-These will only be posted after the due date is past to discourse anyone from plagerizing my work during the assignment period.
+These will only be posted after the due date is past to discourage anyone from plagerizing my work during the assignment period.
