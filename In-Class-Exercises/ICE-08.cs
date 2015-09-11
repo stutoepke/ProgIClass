@@ -3,6 +3,8 @@
 // Programming I
 // Teacher: Brian Trager
 
+// This is a sort of Mad Libs-style simple program.
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
